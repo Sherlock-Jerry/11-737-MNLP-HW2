@@ -13,6 +13,6 @@ infer.py - Infers from the pretrained model
   corresponding directory of the pretrained model while loading from pretrained model in line 6
 
 The results of the experiments are noted in the following files :
-
+1.Finetuning with Guarani dataset only - Guarani_only_pred.txt
 
 The WER results for the abve experiments are noted in the report.
