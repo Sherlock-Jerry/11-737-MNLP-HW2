@@ -1,3 +1,6 @@
+To ensure the right packages are installed to run the code in this subtask, the users can run pip install -r requirements.txt
+
+
 finetune_Guarani.py - Finetunes the openai whisper model on Guarani and Spanish datasets
 
 finetune_Guarani_only.py - Finetunes the openai whisper model on Guarani dataset only
